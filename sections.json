@@ -1,0 +1,136 @@
+{
+	"News" : [
+		{
+			"name" : "World",
+			"url" : "http://www.buzzfeed.com/world.xml"
+		},
+		{
+			"name" : "Politics",
+			"url" : "http://www.buzzfeed.com/politics.xml"
+		},
+		{
+			"name" : "Business",
+			"url" : "http://www.buzzfeed.com/business.xml"
+		},
+		{
+			"name" : "Tech",
+			"url" : "http://www.buzzfeed.com/tech.xml"
+		},
+		{
+			"name" : "Sports",
+			"url" : "http://www.buzzfeed.com/sports.xml"
+		},
+		{
+			"name" : "Ideas",
+			"url" : "http://www.buzzfeed.com/ideas.xml"
+		},
+		{
+			"name" : "Longform",
+			"url" : "http://www.buzzfeed.com/longform.xml"
+		}
+	],
+
+	"Entertainment" : [
+		{
+			"name" : "Entertainment",
+			"url" : "http://www.buzzfeed.com/entertainment.xml"
+		},
+		{
+			"name" : "Celeb",
+			"url" : "http://www.buzzfeed.com/celeb.xml"
+		},	
+		{
+			"name" : "Music",
+			"url" : "http://www.buzzfeed.com/music.xml"
+		},
+		{
+			"name" : "Fashion",
+			"url" : "http://www.buzzfeed.com/fashion.xml"
+		},
+		{
+			"name" : "Rewind",
+			"url" : "http://www.buzzfeed.com/rewind.xml"
+		},
+		{
+			"name" : "Books",
+			"url" : "http://www.buzzfeed.com/books.xml"
+		}
+	],
+
+	"Life" : [
+		{
+			"name" : "Animals",
+			"url" : "http://www.buzzfeed.com/animals.xml"
+		},
+		{
+			"name" : "Food",
+			"url" : "http://www.buzzfeed.com/food.xml"
+		},	
+		{
+			"name" : "DIY",
+			"url" : "http://www.buzzfeed.com/diy.xml"
+		},
+		{
+			"name" : "LGBT",
+			"url" : "http://www.buzzfeed.com/lgbt.xml"
+		},
+		{
+			"name" : "Geeky",
+			"url" : "http://www.buzzfeed.com/geeky.xml"
+		},
+		{
+			"name" : "Travel",
+			"url" : "http://www.buzzfeed.com/travel.xml"
+		}
+	],
+
+	"More" : [
+		{
+			"name" : "UK",
+			"url" : "http://www.buzzfeed.com/uk.xml"
+		},
+		{
+			"name" : "Community",
+			"url" : "http://www.buzzfeed.com/community.xml"
+		}		
+	],
+
+	"Best Of" : [
+		{
+			"name" : "LOL",
+			"url" : "http://www.buzzfeed.com/lol.xml"
+		},			
+		{
+			"name" : "OMG",
+			"url" : "http://www.buzzfeed.com/omg.xml"
+		},	
+		{
+			"name" : "WTF",
+			"url" : "http://www.buzzfeed.com/wtf.xml"
+		},
+		{
+			"name" : "Cute",
+			"url" : "http://www.buzzfeed.com/cute.xml"
+		},
+		{
+			"name" : "Trashy",
+			"url" : "http://www.buzzfeed.com/trashy.xml"
+		},
+		{
+			"name" : "Ew",
+			"url" : "http://www.buzzfeed.com/ew.xml"
+		},
+		{
+			"name" : "Fail",
+			"url" : "http://www.buzzfeed.com/fail.xml"
+		},
+		{
+			"name" : "Win",
+			"url" : "http://www.buzzfeed.com/win.xml"
+		},
+		{
+			"name" : "Pics",
+			"url" : "http://www.buzzfeed.com/pics.xml"
+		}
+	]
+}
